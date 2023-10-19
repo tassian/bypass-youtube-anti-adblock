@@ -19,7 +19,7 @@ If you haven't already, you need to install the Tampermonkey browser extension. 
    In the Tampermonkey Dashboard, click on the "Utilities" tab and select "Create a new script."
 
 3. **Install the Script**:
-   [Click Here and Press Install](https://github.com/tassian/bypass-youtube-anti-adblock/raw/main/bypass-anti-adblock.js).
+   [Click Here and Press Install](https://github.com/tassian/bypass-youtube-anti-adblock/raw/main/bypass-anti-adblock.user.js).
 
 4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
